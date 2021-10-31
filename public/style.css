@@ -1,0 +1,34 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(neon.jpg);
+  background-size: cover;
+  
+}
+img{
+  height: 200px;
+}
+
+.jumbotron{
+  position: relative;
+  top: 100px;
+  background-color: white;
+  box-shadow: 10px 5px 5px rgb(20, 7, 4);
+}
+
+h1{
+  font-family:  "Brush Script MT";
+}
+
+
+button{
+  background-color: white;
+}
+
+#red{
+  color: red;
+}
+
+#green{
+  color: green;
+}
